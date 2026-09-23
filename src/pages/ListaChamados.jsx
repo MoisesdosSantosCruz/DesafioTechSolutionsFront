@@ -12,7 +12,7 @@ function ListaChamados({ chamados, aoExcluir }) {
 
 	return (
 		<main className="pagina-clientes">
-			<h1>Lista de Clientes</h1>
+			<h1>Lista de Chamados</h1>
 			<ul className="lista-clientes">
 				{chamados.map((chamado) => (
 					<li key={chamado.id}>
