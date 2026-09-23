@@ -3,7 +3,7 @@ function Cabecalho() {
       <header className="cabecalho">
         <div className="cabecalho-conteudo">
           <h1>Sistema de Gestão de Comércio</h1>
-          <p>Gerenciamento de produtos, clientes e funcionários</p>
+          <p>Gerenciamento de chamados</p>
         </div>
       </header>
     )
